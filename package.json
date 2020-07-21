@@ -14,7 +14,7 @@
     "node-red"
   ],
   "author": "maskoba",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/maskoba/node-red-contrib-example-lower-case/issues"
   },
